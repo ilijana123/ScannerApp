@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416007491248",
+    "project_id": "scannerapp-d90ec",
+    "storage_bucket": "scannerapp-d90ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416007491248:android:b77adf77ccbbe9e0e53575",
+        "android_client_info": {
+          "package_name": "ilijana.example.scannerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHPoQx-iH6JQPTF-QAhhNt0NKugoxFa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
